@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_sphere","path":"sprites/spr_sphere/spr_sphere.yy",},"order":0,},
+    {"id":{"name":"obj_sphere","path":"objects/obj_sphere/obj_sphere.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
